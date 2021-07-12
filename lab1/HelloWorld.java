@@ -3,3 +3,4 @@ public class HelloWorld {
         System.out.println("Hello world!");
     }
 }
+// lab1 HelloWorld.java change to 2nd version.
